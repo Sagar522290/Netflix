@@ -5,7 +5,8 @@ A simple **Netflix Clone** built using **HTML & CSS**.
 
 
 ## 📸 Preview
-![Netflix Clone Screenshot](svg.jpg)
+![Netflix Clone Screenshot](images/netflix-clone.png)
+
 
 ## ✨ Features
 - Responsive Netflix-style homepage
