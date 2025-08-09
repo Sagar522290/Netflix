@@ -2,7 +2,7 @@
 # 🎬 Netflix Clone
 
 A simple **Netflix Clone** built using **HTML & CSS**.  
-This project is only for learning & practice purposes.
+
 
 ## 📸 Preview
 ![Netflix Clone Screenshot](images/banner.jpg)
